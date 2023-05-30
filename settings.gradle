@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ComposePaging3Caching"
 include ':app'
+include ':room_test'
