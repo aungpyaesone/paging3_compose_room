@@ -16,3 +16,4 @@ rootProject.name = "ComposePaging3Caching"
 include ':app'
 include ':room_test'
 include ':compose_search'
+include ':passing_data'

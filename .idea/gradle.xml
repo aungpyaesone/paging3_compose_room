@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/compose_search" />
+            <option value="$PROJECT_DIR$/passing_data" />
             <option value="$PROJECT_DIR$/room_test" />
           </set>
         </option>
