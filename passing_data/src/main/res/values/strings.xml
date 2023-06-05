@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">passing_data</string>
+    <string name="blank_data">The email cannot be blank</string>
 </resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALY</string>
+    <string name="placeholder_search">Search Books And Authors</string>
+
+    <string name="for_you">For You</string>
+    <string name="trending">Trending</string>
+    <string name="new_release">New Release</string>
+</resources>

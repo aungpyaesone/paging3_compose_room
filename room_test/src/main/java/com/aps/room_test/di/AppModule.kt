@@ -21,7 +21,8 @@ object AppModule {
             context,
             ContactDatabase::class.java,
             "beers.db"
-        ).build()
+        )
+            .build()
     }
 
     @Provides

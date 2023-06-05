@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aly" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/compose_search" />
             <option value="$PROJECT_DIR$/passing_data" />
